@@ -1,6 +1,6 @@
 # Customized
-./data/meta_data
-./data/raw_data
+meta_data/
+raw_data/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
