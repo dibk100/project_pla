@@ -1,6 +1,7 @@
 # Customized
 meta_data/
 raw_data/
+aihubshell
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
